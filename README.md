@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @CaireRibeiro
-- 👀 I’m interested in  aprender e  desenvolver o pouco conhecimento que tenho
-- 🌱 I’m currently learning  SQL SERVE, HTMl  E CSS
-- 💞️ I’m looking to collaborate on  algum projeto relacionado a Front-End
-- 📫 How to reach me  por gmail (caireribeiro23@gmail.com)
-<!---
-CaireRibeiro/CaireRibeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Desenvolvedor (em formação) apaixonado por tecnologia e soluções inovadoras. Com vasta experiência em desenvolvimento de software,tTenho habilidades em linguagens de programação como Python, JavaScript e MySQL, além de um conhecimento básico  em bancos de dados relacionais e não-relacionais. Sou dedicado, organizado e sempre busco me atualizar nas últimas tendências e tecnologias do mercado.
